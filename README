@@ -1,2 +1,0 @@
-此项目是缓存项目，支持redis分布式缓存：单机模式，分片模式，集群模式
-具体使用方式参考代码src/test/java和对应的配置文件src/test/resources
